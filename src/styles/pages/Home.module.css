@@ -1,0 +1,26 @@
+
+.form{
+  height: 90vh;
+  width: 100vw;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.input{
+  width: 90vw;
+  height: 5vh;
+  border: none;
+  border-radius: 10px;
+  margin-bottom: 2vh;
+}
+
+.button{
+  width: 50vw;
+  height: 5vh;
+  border: none;
+  border-radius: 10px;
+  background-color: #70e000;
+
+}
