@@ -29,7 +29,7 @@ export default function Home() {
         <div className={styles.container}>
           <Form className={styles.form} onSubmit={submit}>
             <Input name="name" placeholder="Nome" className={styles.input} />
-            <Input name="email" placeholder="E-mail" className={styles.input} />
+            <Input name="email" placeholder="E-mail (Opcional)" className={styles.input} />
             <Input name="foneNumber" placeholder="Celular" className={styles.input} />
             <Input name="city" placeholder="Cidade" className={styles.input} />
             <Input name="bairro" placeholder="Bairro" className={styles.input} />
