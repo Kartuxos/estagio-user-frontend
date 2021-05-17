@@ -22,7 +22,7 @@ export default function buscar() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Kartuxos e Cia</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <PageHeader link="/" name="Cadastrar"></PageHeader>

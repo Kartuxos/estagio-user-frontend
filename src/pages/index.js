@@ -21,7 +21,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-        <title>Create Next App</title>
+        <title>Kartuxos e Cia</title>
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <PageHeader link="/buscar" name="Buscar"></PageHeader>
