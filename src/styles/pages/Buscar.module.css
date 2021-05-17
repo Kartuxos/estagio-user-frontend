@@ -39,6 +39,7 @@
   border-radius: 10px;
   background-color: #70e000;
   color: white;
+  cursor: pointer;
 }
 
 .container {
