@@ -37,7 +37,7 @@ export default function buscar() {
         {userS ?
           <div className={styles.container}>
             <p className={styles.p}>{userS.name}</p>
-            <p className={styles.p}>{userS.email}</p>
+            {userS.email ? <p className={styles.p}>{userS.email}</p> : null}
             <p className={styles.p}>{userS.foneNumber}</p>
             <p className={styles.p}>{userS.city}</p>
             <p className={styles.p}>{userS.bairro}</p>
